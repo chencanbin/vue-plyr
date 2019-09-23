@@ -40,7 +40,7 @@
     "bili"
   ],
   "dependencies": {
-    "plyr": "^3.5.4"
+    "plyr": "git+https://github.com/chencanbin/plyr.git"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
